@@ -1,0 +1,43 @@
+[Adblock Plus 2.0] 
+! Title: Mark Ridgwell Ad Block and General annoyances
+! Expires: 5 days (optional)
+! Homepage: http://www.markridgwell.com/adblock
+www.dailymail.co.uk###articleIconLinksContainer
+www.dailymail.co.uk###comment-44406876
+www.dailymail.co.uk###ext-gen10
+www.dailymail.co.uk###ext-gen115
+www.dailymail.co.uk###ext-gen118
+www.dailymail.co.uk###ext-gen7
+www.dailymail.co.uk###ext-gen8
+www.dailymail.co.uk###ext-gen9
+www.dailymail.co.uk###infinite-list
+www.dailymail.co.uk###most-watched-videos
+www.dailymail.co.uk###reader-comments
+www.dailymail.co.uk###socialLinks
+www.dailymail.co.uk##.beta
+www.dailymail.co.uk##.cnr-bdr
+www.dailymail.co.uk##.comment
+www.dailymail.co.uk##.comment-post
+www.dailymail.co.uk##.dm-tab
+www.dailymail.co.uk##.dm-tab-on
+www.dailymail.co.uk##.item
+www.dailymail.co.uk##.js-active
+www.dailymail.co.uk##.last
+www.dailymail.co.uk##.link-bogr2
+www.dailymail.co.uk##.link-ccow
+www.dailymail.co.uk##.link-wox
+www.dailymail.co.uk##.linkro-wocc
+www.dailymail.co.uk##.news
+www.dailymail.co.uk##.ow-igr5-bx
+www.dailymail.co.uk##.pufftext
+www.dailymail.co.uk##.rc-comment
+www.dailymail.co.uk##.rc-header
+www.dailymail.co.uk##.rc-title
+www.dailymail.co.uk##.rotator
+www.dailymail.co.uk##.rotator-title
+www.dailymail.co.uk##.social-links
+www.dailymail.co.uk##.social-links-title
+www.dailymail.co.uk##.supplements
+www.dailymail.co.uk##.wocc
+www.dailymail.co.uk##.wogr5
+www.dailymail.co.uk##.wogr6
