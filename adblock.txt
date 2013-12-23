@@ -41,3 +41,17 @@ www.dailymail.co.uk##.supplements
 www.dailymail.co.uk##.wocc
 www.dailymail.co.uk##.wogr5
 www.dailymail.co.uk##.wogr6
+www.buzzfeed.com###responses
+www.buzzfeed.com##.Contributions
+www.buzzfeed.com##.no-contributions
+www.buzzfeed.com###respond
+www.buzzfeed.com###facebook_conversations
+www.buzzfeed.com###share_control
+www.buzzfeed.com##.vertical-social-icons
+www.buzzfeed.com##.bottom_shares
+www.buzzfeed.com###reactions_normal
+www.buzzfeed.com###badge_voting
+www.buzzfeed.com###permalink_buzz_stats
+www.buzzfeed.com##.PageFooter
+www.buzzfeed.com##.footer
+www.buzzfeed.com##.simple-footer
