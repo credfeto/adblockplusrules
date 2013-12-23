@@ -55,3 +55,6 @@ www.buzzfeed.com###permalink_buzz_stats
 www.buzzfeed.com##.PageFooter
 www.buzzfeed.com##.footer
 www.buzzfeed.com##.simple-footer
+cheezburger.com###comments
+cheezburger.com##.post-body
+cheezburger.com##.post-repost
