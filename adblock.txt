@@ -59,3 +59,4 @@ cheezburger.com###comments
 cheezburger.com##.post-body
 cheezburger.com##.post-repost
 ##fb-root
+facebook.com##._5mym
