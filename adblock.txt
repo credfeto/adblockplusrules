@@ -62,6 +62,10 @@ cheezburger.com##.post-repost
 facebook.com##._5mym
 facebook.com##._5my7
 facebook.com##.uiHeaderTitle
+facebook.com##.uiHeader
+facebook.com##.uiHeaderTopBorder
+facebook.com##.mbs
+facebook.com##.uiSideHeader
 http://s.ppjol.net/static/fb/fancy_close.png
 https://ui.ppjol.com/cookie/noCookieSupport.html?parentURL=http%3A%2F%2Fwww.postandcourier.com%2Farticle%2F20130331%2FPC05%2F130339925
 ui.ppjol.com###contentwrap
