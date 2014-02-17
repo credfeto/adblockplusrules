@@ -67,7 +67,6 @@ facebook.com##.uiHeaderTopBorder
 facebook.com##.mbs
 facebook.com##.uiSideHeader
 facebook.com###rightCol
-facebook.com##.inner
 http://s.ppjol.net/static/fb/fancy_close.png
 https://ui.ppjol.com/cookie/noCookieSupport.html?parentURL=http%3A%2F%2Fwww.postandcourier.com%2Farticle%2F20130331%2FPC05%2F130339925
 ui.ppjol.com###contentwrap
