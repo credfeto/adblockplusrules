@@ -59,12 +59,12 @@ cheezburger.com###comments
 cheezburger.com##.post-body
 cheezburger.com##.post-repost
 ##fb-root
-facebook.com##._5mym
-facebook.com##._5my7
+!facebook.com##._5mym
+!facebook.com##._5my7
 facebook.com##.uiHeaderTitle
 facebook.com##.uiHeader
 facebook.com##.uiHeaderTopBorder
-facebook.com##.mbs
+!facebook.com##.mbs
 facebook.com##.uiSideHeader
 facebook.com###rightCol
 http://s.ppjol.net/static/fb/fancy_close.png
