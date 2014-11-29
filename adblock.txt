@@ -72,3 +72,5 @@ https://ui.ppjol.com/cookie/noCookieSupport.html?parentURL=http%3A%2F%2Fwww.post
 ui.ppjol.com###contentwrap
 www.postandcourier.com###gregbox-outer
 www.postandcourier.com###innerFrame
+www.kew.org###sliding-popup
+www.kew.org##.sliding-popup-bottom
