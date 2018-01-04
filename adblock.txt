@@ -74,3 +74,7 @@ www.postandcourier.com###gregbox-outer
 www.postandcourier.com###innerFrame
 www.kew.org###sliding-popup
 www.kew.org##.sliding-popup-bottom
+||api.behavioralengine.com
+||coinhive.com
+||coin-hive.com
+||audienceinsights.net
