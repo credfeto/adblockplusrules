@@ -30,8 +30,10 @@
 
 # Tracking/Adverts
 0.0.0.0 api.segment.io
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 dit.whatsapp.net
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 heytapmobile.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 ssl.google-analytics.com
