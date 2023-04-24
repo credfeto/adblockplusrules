@@ -31,6 +31,7 @@
 # Tracking/Adverts
 0.0.0.0 api.onesignal.com
 0.0.0.0 api.segment.io
+0.0.0.0 branch.io
 0.0.0.0 data.microsoft.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 device-metrics-us-2.amazon.com
