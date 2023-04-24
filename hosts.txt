@@ -1,0 +1,29 @@
+# Geo blocked for UK
+0.0.0.0 support.com
+
+# Other
+0.0.0.0 espncdn.com
+
+
+
+# TV
+0.0.0.0 sky.com
+#channel5.com
+#channel4.com
+#itv.com
+0.0.0.0 bbc.com
+0.0.0.0 bbc.in
+0.0.0.0 bbci.co.uk
+0.0.0.0 bbc.co.uk
+
+# crap papers
+0.0.0.0 washingtontimes.com
+0.0.0.0 telegraph.co.uk
+0.0.0.0 mirror.co.uk
+0.0.0.0 express.co.uk
+0.0.0.0 thesun.co.uk
+0.0.0.0 dailymail.co.uk
+0.0.0.0 thisismoney.co.uk
+
+# Samsung TV Ads
+#0.0.0.0 samsungads.com
