@@ -50,8 +50,5 @@
 0.0.0.0 us04zpns.zoom.us
 0.0.0.0 userlocation.googleapis.com
 
-# Site is geoblocked so may as well die
-0.0.0.0 bitcoinist.com
-
 # stupid TLDs
 0.0.0.0 zip
