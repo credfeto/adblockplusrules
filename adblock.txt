@@ -78,3 +78,4 @@ www.kew.org##.sliding-popup-bottom
 ||coinhive.com
 ||coin-hive.com
 ||audienceinsights.net
+notalwaysright.com###disqusthread
