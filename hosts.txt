@@ -52,3 +52,7 @@
 
 # stupid TLDs
 0.0.0.0 zip
+
+# CCTV - no need for this to be able to access anything!
+0.0.0.0 rs.xmeye.net
+0.0.0.0 xmeye.net
