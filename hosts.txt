@@ -26,6 +26,10 @@
 0.0.0.0 dailymail.co.uk
 0.0.0.0 thisismoney.co.uk
 
+0.0.0.0 locals.com
+0.0.0.0 substack.com
+0.0.0.0 breitbart.com
+
 # Samsung TV Ads
 #0.0.0.0 samsungads.com
 
