@@ -55,6 +55,9 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 httpdns-euex-push.heytapmobile.com
 
+# Roku 
+0.0.0.0 scribe.logs.roku.com
+
 # stupid TLDs
 0.0.0.0 zip
 
@@ -68,4 +71,5 @@
 0.0.0.0 dc.applicationinsights.azure.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 global.in.ai.monitor.azure.com
-0.0.0.0 applicationinsights.azure.com
+0.0.0.0 applicationinsights.azure.com#
+0.0.0.0 mobile.events.data.microsoft.com
