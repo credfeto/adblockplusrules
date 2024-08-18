@@ -60,3 +60,11 @@
 # CCTV - no need for this to be able to access anything!
 0.0.0.0 rs.xmeye.net
 0.0.0.0 xmeye.net
+
+# Microsoft
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 dc.applicationinsights.microsoft.com
+0.0.0.0 dc.applicationinsights.azure.com
+0.0.0.0 applicationinsights.microsoft.com
+0.0.0.0 global.in.ai.monitor.azure.com
+0.0.0.0 applicationinsights.azure.com
