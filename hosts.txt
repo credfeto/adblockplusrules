@@ -55,6 +55,7 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 httpdns-euex-push.heytapmobile.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 geller-pa.googleapis.com
 
 # Roku 
 0.0.0.0 scribe.logs.roku.com
