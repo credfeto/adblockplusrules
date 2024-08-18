@@ -61,6 +61,7 @@
 # Roku 
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 marlin.logs.roku.com
+0.0.0.0 cloudservices.roku.com
 
 # Netflix
 0.0.0.0 logs.netflix.com
