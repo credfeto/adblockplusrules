@@ -52,6 +52,8 @@
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us04zpns.zoom.us
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 httpdns-euex-push.heytapmobile.com
 
 # stupid TLDs
 0.0.0.0 zip
