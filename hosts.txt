@@ -82,3 +82,6 @@
 0.0.0.0 applicationinsights.azure.com#
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
+
+# Google
+0.0.0.0 google-analytics.com
