@@ -62,6 +62,24 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 marlin.logs.roku.com
 0.0.0.0 cloudservices.roku.com
+# images.sr.roku.com
+# ads.roku.com
+# track.sr.roku.com
+# traces.sr.roku.com
+# samples.voice.cti.roku.com
+# rxr.ravm.tv
+# ravm.tv
+# raps.ravm.tv
+# raps-perf.ravm.tv
+# p.ads.roku.com
+# i.ads.roku.com
+# display.ravm.tv
+# digdug.logs.roku.com
+# digdug-g2.logs.roku.com
+# customer-feedbacks.web.roku.com
+# amoeba-plus.web.roku.com
+# amarillo.logs.roku.com
+# wwwimg.roku.com
 
 # Netflix
 0.0.0.0 logs.netflix.com
