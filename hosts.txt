@@ -46,7 +46,7 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 qepodownload.mediatek.com
-0.0.0.0 ssl.google-analytics.com
+#0.0.0.0 ssl.google-analytics.com
 0.0.0.0 stats.grafana.org
 0.0.0.0 teleport.soom.la
 0.0.0.0 us04logfiles.zoom.us
@@ -59,9 +59,9 @@
 0.0.0.0 qcc.qualcomm.com
 
 # Roku 
-0.0.0.0 scribe.logs.roku.com
-0.0.0.0 marlin.logs.roku.com
-0.0.0.0 cloudservices.roku.com
+#0.0.0.0 scribe.logs.roku.com
+#0.0.0.0 marlin.logs.roku.com
+#0.0.0.0 cloudservices.roku.com
 # images.sr.roku.com
 # ads.roku.com
 # track.sr.roku.com
