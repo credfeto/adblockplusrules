@@ -79,3 +79,11 @@ www.kew.org##.sliding-popup-bottom
 ||coin-hive.com
 ||audienceinsights.net
 notalwaysright.com###disqusthread
+
+
+! Hide Shorts shelf on the homepage
+youtube.com##ytd-rich-section-renderer:has(#title-text:has-text(Shorts))
+! Hide Shorts from the sidebar menu
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+! Hide Shorts from the subscriptions feed
+youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
