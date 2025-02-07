@@ -9,3 +9,6 @@
 0.0.0.0 sexperienceuk.channel4.com
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstats.channel4.com
+
+## Live TV?
+0.0.0.0 channel4.sc.omtrdc.net
