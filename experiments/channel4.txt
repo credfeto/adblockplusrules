@@ -12,3 +12,4 @@
 
 ## Live TV?
 0.0.0.0 channel4.sc.omtrdc.net
+0.0.0.0 youspace.com
