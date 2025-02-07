@@ -2,4 +2,4 @@
 0.0.0.0 tpsc-video.doubleverify.com
 
 ## Live?
-0.0.0.0 simulcast.itv.com
+0.0.0.0 live-red-irdeto-ms.fastly.content.itv.com
