@@ -1,12 +1,12 @@
 # Ads
 0.0.0.0 ads.channel4.com
-0.0.0.0 cdn.http.anno.channel4.com
+# 0.0.0.0 cdn.http.anno.channel4.com
 0.0.0.0 cdn.ss.anno.channel4.com
 0.0.0.0 channel4.com.112.2o7.net
 0.0.0.0 channel4.com.sc.omtrdc.net
 0.0.0.0 channel4.com.ssl.sc.omtrdc.net
 0.0.0.0 ic.channel4.com
-0.0.0.0 monitor.channel4.com
+# 0.0.0.0 monitor.channel4.com
 0.0.0.0 sexperienceuk.channel4.com
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstats.channel4.com
