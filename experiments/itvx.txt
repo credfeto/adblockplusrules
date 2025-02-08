@@ -3,4 +3,4 @@
 
 ## Live?
 #0.0.0.0 simulcast.itv.com  ## Breaks Roku app too much
-#0.0.0.0 live-red-irdeto-ms.fastly.content.itv.com ## Breaks Roku app too
+0.0.0.0 live-red-irdeto-ms.fastly.content.itv.com
