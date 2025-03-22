@@ -79,8 +79,11 @@ www.kew.org##.sliding-popup-bottom
 ||coin-hive.com
 ||audienceinsights.net
 notalwaysright.com###disqusthread
-
-
+notalwaysright.com###sidebar
+notalwaysright.com###meta_container_left
+notalwaysright.com##.dropbtn_two
+notalwaysright.com##.wpp-bigwrapper
+www.twitch.tv##div.Layout-sc-1xcs6mc-0:nth-of-type(96) > .Layout-sc-1xcs6mc-0.dxituZ > .Layout-sc-1xcs6mc-0.kGlEdz
 ! Hide Shorts shelf on the homepage
 youtube.com##ytd-rich-section-renderer:has(#title-text:has-text(Shorts))
 ! Hide Shorts from the sidebar menu
