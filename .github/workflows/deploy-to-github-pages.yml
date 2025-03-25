@@ -1,0 +1,39 @@
+name: Build and deploy to github pages
+
+on:
+  push:
+    branches:
+      - main  # Set a branch to deploy
+    paths:
+      - adblock.txt
+      - hosts.txt
+      - .github/workflows/deploy-to-github-pages.yml
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Remove gitignore
+        run: rm -f ./public/.gitignore
+
+      - name: Build
+        run: |
+          mkdir ./public
+          cp adblock.txt ./public/adblock.txt
+          cp hosts.txt ./public/hosts.txt
+
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: abp.markridgwell.com
