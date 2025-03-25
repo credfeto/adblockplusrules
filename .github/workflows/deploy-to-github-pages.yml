@@ -14,6 +14,9 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
 
+    env:
+      TARGET: ./public
+
     steps:
       - name: "Checkout Source"
         uses: actions/checkout@v4
@@ -21,18 +24,18 @@ jobs:
           fetch-depth: 0
 
       - name: "Remove gitignore"
-        run: rm -f ./public/.gitignore
+        run: rm -f "${{env.TARGET}}/.gitignore"
 
       - name: "Build"
         run: |
-          mkdir ./public
-          cp adblock.txt ./public/adblock.txt
-          cp hosts.txt ./public/hosts.txt
+          mkdir "${{env.TARGET}}/"
+          cp adblock.txt "${{env.TARGET}}/adblock.txt"
+          cp hosts.txt "${{env.TARGET}}/hosts.txt"
 
       - name: "Deploy"
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: "${{env.TARGET}}"
           cname: abp.markridgwell.com
