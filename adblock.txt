@@ -90,3 +90,9 @@ youtube.com##ytd-rich-section-renderer:has(#title-text:has-text(Shorts))
 youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
 ! Hide Shorts from the subscriptions feed
 youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
+
+
+! super clippy gemini in gmail - no way to stop the damn thing from jumping up and demanding to be used to compose an email even when reading an email
+mail.google.com##.uW2Fw-bHo
+mail.google.com##.uW2Fw-bHm
+mail.google.com##.uW2Fw-JD
