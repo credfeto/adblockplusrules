@@ -1,7 +1,8 @@
 [Adblock Plus 1.1]
 ! Title: Mark Ridgwell Ad Block and General annoyances Custom List
 ! Expires: 5 days (update frequency)
-! Homepage: http://www.markridgwell.com/adblock
+! Homepage: https://abp.markridgwell.com
+! Ref: https://abp.markridgwell.com/adblock.txt
 www.dailymail.co.uk###articleIconLinksContainer
 www.dailymail.co.uk###comment-44406876
 www.dailymail.co.uk###ext-gen10
