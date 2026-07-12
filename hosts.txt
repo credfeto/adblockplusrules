@@ -177,7 +177,7 @@
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 qcc.qualcomm.com
 
-# Roku 
+# Roku
 #0.0.0.0 scribe.logs.roku.com
 #0.0.0.0 marlin.logs.roku.com
 #0.0.0.0 cloudservices.roku.com
