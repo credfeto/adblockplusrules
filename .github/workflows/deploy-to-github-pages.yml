@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: "Checkout Source"
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           fetch-depth: 0
 
@@ -34,7 +34,7 @@ jobs:
           cp hosts.txt "${{env.TARGET}}/hosts.txt"
 
       - name: "Deploy"
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
